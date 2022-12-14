@@ -1,9 +1,11 @@
 [
   {
     "name": "Revealer",
-    "cost": 1,
+    "cost": -1,
     "uniques": [
-      "Reveals the entire map"
+      "Can only be built [in capital]",
+      "Reveals the entire map",
+      "Limited to [1] per Civilization"
             ], 
   },
   ]

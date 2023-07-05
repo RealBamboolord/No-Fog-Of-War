@@ -1,7 +1,7 @@
 [
   {
     "name": "Revealer",
-    "cost": -1,
+    "cost": 0,
     "uniques": [
       "Can only be built [in capital]",
       "Reveals the entire map",
